@@ -390,4 +390,24 @@ span{
     top: 40%;
     z-index: 999999;
     padding: 1px 1px;
-}s
+}
+
+
+
+@media (max-width: 1205px){
+ 
+  .libre {
+    
+    display: none;
+}
+}
+
+@media (max-width: 12005px){
+ .libre2 {
+    display: none;
+    
+}
+}
+
+
+
