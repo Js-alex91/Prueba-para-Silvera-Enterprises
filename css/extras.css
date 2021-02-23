@@ -430,12 +430,24 @@ span{
 
 }
 
+
+@media (max-width: 400px){
+
+.puntos {
+   
+    margin-left: 31%;
+   
+}
+
+}
+
 .puntos {
    
 margin-left: 41%;
 
 
 }
+
 
 
 @media (max-width: 582px){
