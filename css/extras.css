@@ -438,4 +438,15 @@ margin-left: 41%;
 }
 
 
+@media (max-width: 582px){
 
+.contain {
+    height: 325px;
+    padding-top: 50px;
+    padding-left: 63px !important;
+    background-color: #052c65;
+    max-width: 1600px !important;
+}
+
+
+}
