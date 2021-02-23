@@ -402,7 +402,7 @@ span{
 }
 }
 
-@media (max-width: 12005px){
+@media (max-width: 1200px){
  .libre2 {
     display: none;
     
@@ -410,4 +410,14 @@ span{
 }
 
 
+@media (max-width: 646px){
+
+#end {
+    background-color: #031633;
+    text-align: center;
+    padding-top: 431px;
+    max-width: 1600px !important;
+}
+
+}
 
