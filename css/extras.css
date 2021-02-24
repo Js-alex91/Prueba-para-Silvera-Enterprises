@@ -467,4 +467,12 @@ margin-left: 41%;
     padding: 10px;
 }
 
+  .section .container .row .reservation h1 {
+    padding: 14px;
+    color: #111a31;
+    font-size: 25px;
+    font-weight: bold;
+}
+  
+  
 }
