@@ -728,6 +728,22 @@ margin: 30px;
 }
   
 }
+
+
+@media (max-width: 771px){
+  
+  .section .container .row .xx h1 {
+    font-size: 54px;
+    font-weight: bold;
+}
+  
+ 
+}
+
+
+
+
+
 media (max-width: 400px) {
 .input-group>.form-control, .input-group>.form-select {
     position: relative;
