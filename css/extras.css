@@ -492,5 +492,11 @@ margin-left: 41%;
     font-size: 10px;
 }
   
+ .section2 .container .row .col-sm.x2 .oxp {
+    position: relative;
+    top: 40px;
+    left: -1px;
+}
+  
   
 }
