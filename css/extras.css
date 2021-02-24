@@ -504,11 +504,22 @@ margin-left: 41%;
     margin: 0px;
 
   }
+ 
+  
+  .btn-custom {
+    width: 61%;
+    padding: 10px;
+    font-weight: BOLD;
+    background: #fff;
+    border: 1px solid #e8e4e4;
+    border-radius: 5%;
+}
   
 }
 
 
-.elementoss{
+
+.elementoss {
 margin: 30px;
   
 }
