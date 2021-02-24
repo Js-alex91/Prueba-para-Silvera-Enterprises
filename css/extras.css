@@ -739,6 +739,14 @@ media (max-width: 400px) {
     margin: 9px 0px 0px 0px;
 }
 }
+
+@media (max-width: 1004px){
+
+.col-sm {
+    /* flex: 1 0 0%; */
+}
+  
+}
 @media (max-width: 581px){
 .section .container{
     padding: 0;
