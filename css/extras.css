@@ -474,5 +474,23 @@ margin-left: 41%;
     font-weight: bold;
 }
   
+  .orange {
+    color: hsl(15deg 88% 56%);
+    font-size: 10px;
+}
+  
+  
+  .title {
+    color: #fd7e14;
+    font-size: 10px;
+}
+  
+
+  .fw-bold {
+    font-weight: 700!important;
+    width: 100%;
+    font-size: 10px;
+}
+  
   
 }
