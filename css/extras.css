@@ -581,3 +581,26 @@ margin: 30px;
   
   
 }
+
+
+
+@media (max-width: 470px){
+
+  .section4 .container .row .gallery button {
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    width: 51%;
+    padding: 6px;
+    background: #161e33;
+    border: 1px solid #121929;
+    margin: 20px auto;
+}
+  
+.puntos {
+    margin-left: 33%;
+} 
+  
+  
+}
