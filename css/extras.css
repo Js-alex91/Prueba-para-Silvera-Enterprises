@@ -489,7 +489,8 @@ margin-left: 41%;
   .fw-bold {
     font-weight: 700!important;
     width: 100%;
-    font-size: 10px;
+    text-align: center;
+    font-size: 18px;
 }
   
  .section2 .container .row .col-sm.x2 .oxp {
@@ -507,8 +508,9 @@ margin-left: 41%;
  
   
   .btn-custom {
-    width: 61%;
+    width: 160px;
     padding: 10px;
+    font-size: 14px;
     font-weight: BOLD;
     background: #fff;
     border: 1px solid #e8e4e4;
@@ -578,14 +580,8 @@ margin: 30px;
     margin: 20px auto;
 }
   
-  
-  
 }
-
-
-
 @media (max-width: 470px){
-
   .section4 .container .row .gallery button {
     display: block;
     color: #fff;
@@ -602,5 +598,5 @@ margin: 30px;
     margin-left: 33%;
 } 
   
-  
 }
+
