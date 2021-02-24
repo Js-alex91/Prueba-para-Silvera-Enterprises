@@ -460,5 +460,11 @@ margin-left: 41%;
     max-width: 1600px !important;
 }
 
+  .section .container .row .xx h1 {
+    width: 60%;
+    font-size: 29px;
+    font-weight: bold;
+    padding: 10px;
+}
 
 }
