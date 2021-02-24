@@ -737,7 +737,7 @@ margin: 30px;
 }
 
 
-media (max-width: 400px)
+media (max-width: 400px) {
 .input-group>.form-control, .input-group>.form-select {
     position: relative;
     flex: 1 1 auto;
@@ -747,4 +747,6 @@ media (max-width: 400px)
     /* padding: 2px 2px 2px 4px; */
     margin: 9px 0px 0px 0px;
 }
+}
+  
 
