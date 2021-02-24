@@ -742,9 +742,18 @@ media (max-width: 400px) {
 
 @media (max-width: 1004px){
 
+  
 .col-sm {
     /* flex: 1 0 0%; */
 }
+  
+ .section5 .container .row .col-sm.text {
+    color: #ffffff;
+    text-align: center;
+    padding: 46px;
+}
+  
+  
   
 }
 @media (max-width: 581px){
